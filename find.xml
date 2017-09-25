@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*modu.xml</mask>
+      <mask>*module.*.xml.xml</mask>
+      <mask>*module*.xml.xml</mask>
+      <mask>*module.xml.xml</mask>
+      <mask>*modul.xml.xml</mask>
+      <mask>*modu.xml.xml</mask>
+      <mask>*mod.xml.xml</mask>
+      <mask>*mo.xml.xml</mask>
+      <mask>*m.xml.xml</mask>
+      <mask>*.xml.xml</mask>
+      <mask>*.xml.xm</mask>
+      <mask>m</mask>
+      <mask>mo</mask>
+      <mask>*module*.xml</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*s.java</mask>
+      <mask>*se.java</mask>
+      <mask>*set.java</mask>
+      <mask>*sett.java</mask>
+      <mask>*setti.java</mask>
+      <mask>*settings.java</mask>
+      <mask>*tem.java</mask>
+      <mask>*temp.java</mask>
+      <mask>*templ.java</mask>
+      <mask>*templa.java</mask>
+      <mask>*template.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
