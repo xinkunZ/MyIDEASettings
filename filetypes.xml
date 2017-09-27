@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="jft" type="PLAIN_TEXT" />
+      <mapping ext="ps1xml" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
