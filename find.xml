@@ -6,7 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*mod.xml.xml</mask>
       <mask>*mo.xml.xml</mask>
       <mask>*m.xml.xml</mask>
       <mask>*.xml.xml</mask>
@@ -17,7 +16,6 @@
       <mask>*。</mask>
       <mask>*.</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*s.java</mask>
       <mask>*se.java</mask>
       <mask>*set.java</mask>
@@ -36,6 +34,8 @@
       <mask>*mgr</mask>
       <mask>*mgr.</mask>
       <mask>*mgr.java</mask>
+      <mask>*m.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
