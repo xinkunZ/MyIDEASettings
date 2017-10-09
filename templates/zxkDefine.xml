@@ -48,11 +48,6 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="getmessage" value="private String getMessage(String key, String[] value) {&#10;  return messages.getMessage(messagePrefix + key, value, null);&#10;}" description="add getMessage method" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
   <template name="prefix" value="private String messagePrefix = &quot;$class_name$.&quot;;" description="create messagePrefix" toReformat="false" toShortenFQNames="true">
     <variable name="class_name" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -90,6 +85,11 @@
     </context>
   </template>
   <template name="mykeybindings" value=" private MyKeyBindings keyBindings = new MyKeyBindings(new MyKeyBinding[{}]);" description="create key bindings" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="getmessages" value="  private String getMessages(String args) {&#10;    return getMessages(args, null);&#10;  }&#10;&#10;  private String getMessages(String arg, String[] args) {&#10;    return messages.getMessage(messagePrefix + arg, args, null);&#10;  }" description="create getMessages()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
