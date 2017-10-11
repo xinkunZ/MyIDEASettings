@@ -94,7 +94,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="entity" value="EntityManager em = emf.createEntityManager();&#10;    try {&#10;&#10;    } catch (Exception e) {&#10;      logger.error(e);&#10;    } finally {&#10;      em.close();&#10;    }" toReformat="false" toShortenFQNames="true">
+  <template name="entity" value="EntityManager em = emf.createEntityManager();&#10;    try {&#10;&#10;    } catch (Exception e) {&#10;      logger.error(e);&#10;    } finally {&#10;      em.close();&#10;    }" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
