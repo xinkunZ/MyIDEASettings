@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>mo</mask>
-      <mask>*module*.xml</mask>
-      <mask>*。</mask>
-      <mask>*s.java</mask>
-      <mask>*se.java</mask>
       <mask>*set.java</mask>
       <mask>*sett.java</mask>
       <mask>*setti.java</mask>
@@ -20,8 +15,6 @@
       <mask>*template.java</mask>
       <mask>45</mask>
       <mask>4</mask>
-      <mask>*</mask>
-      <mask>*</mask>
       <mask>*mgr</mask>
       <mask>*mgr.</mask>
       <mask>*mgr.java</mask>
@@ -30,10 +23,17 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.jft</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
