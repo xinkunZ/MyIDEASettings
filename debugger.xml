@@ -1,5 +1,10 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DEBUGGER_TRANSPORT" value="1" />
+    <option name="FORCE_CLASSIC_VM" value="false" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="KILL_PROCESS_IMMEDIATELY" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -75,16 +80,29 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />

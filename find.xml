@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*set.java</mask>
+      <mask>*sett.java</mask>
+      <mask>*setti.java</mask>
+      <mask>*settings.java</mask>
+      <mask>*tem.java</mask>
+      <mask>*temp.java</mask>
+      <mask>*templ.java</mask>
+      <mask>*templa.java</mask>
+      <mask>*template.java</mask>
+      <mask>45</mask>
+      <mask>4</mask>
+      <mask>*mgr</mask>
+      <mask>*mgr.</mask>
+      <mask>*mgr.java</mask>
+      <mask>*m.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.jft</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

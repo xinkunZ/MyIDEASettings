@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/48b8f268_assembly-1.1.2.xsd" />
+    <resource url="http://soap.sforce.com/2006/04/metadata" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+  </component>
+</application>
