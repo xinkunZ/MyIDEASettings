@@ -95,6 +95,10 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="JumpToLastChange" />
+  <action id="OpenCustomerHomeAction">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
