@@ -242,7 +242,7 @@
         </sourcePath>
       </roots>
       <additional sdk="1.8">
-        <option name="mySandboxHome" value="C:\Users\zxk84\.IntelliJIdea2017.1\system\plugins-sandbox" />
+        <option name="mySandboxHome" value="C:\Users\zhangxinkun\.IntelliJIdea2017.1\system\plugins-sandbox" />
       </additional>
     </jdk>
     <jdk version="2">
