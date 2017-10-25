@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="auto complete">
+      <action id="OptimizeImports" />
+      <action id="EditorCompleteStatement" />
+      <action id="ReformatCode" />
+    </macro>
+  </component>
+</application>
