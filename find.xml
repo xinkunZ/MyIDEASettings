@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*set.java</mask>
       <mask>*sett.java</mask>
       <mask>*setti.java</mask>
       <mask>*settings.java</mask>
@@ -19,13 +19,10 @@
       <mask>*mgr.</mask>
       <mask>*mgr.java</mask>
       <mask>*m.java</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.jft</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*</mask>
       <mask>p</mask>
@@ -34,6 +31,10 @@
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
