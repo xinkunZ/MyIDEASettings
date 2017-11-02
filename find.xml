@@ -5,10 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="skin" />
     <recentFileMasks>
-      <mask>*setti.java</mask>
-      <mask>*settings.java</mask>
-      <mask>*tem.java</mask>
       <mask>*temp.java</mask>
       <mask>*templ.java</mask>
       <mask>*templa.java</mask>
@@ -36,6 +34,9 @@
       <mask>*.j</mask>
       <mask>*.jf</mask>
       <mask>*.jft</mask>
+      <mask>sk</mask>
+      <mask>ski</mask>
+      <mask>skin</mask>
     </recentFileMasks>
   </component>
 </application>
