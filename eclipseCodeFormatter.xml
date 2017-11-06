@@ -22,7 +22,7 @@
           <option name="importOrderConfigFilePath" value="C:/WorkSpace/eclipse/jpos-eclipse-template/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
           <option name="importOrdering" value="ECLIPSE_44" />
           <option name="name" value="rumba" />
-          <option name="pathToConfigFileJava" value="C:/workspace/idea-jpos/jpos/format.xml" />
+          <option name="pathToConfigFileJava" value="C:/WorkSpace/intellj/idea-jpos/jpos/format.xml" />
           <option name="selectedJavaProfile" value="rumba format" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
