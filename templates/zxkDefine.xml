@@ -43,12 +43,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="message" value=" @Resource(name = &quot;serverMessages&quot;)&#10; private MessageSource messages;" description="add MessageSource bean" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="prefix" value="private String messagePrefix = &quot;$class_name$.&quot;;" description="create messagePrefix" toReformat="false" toShortenFQNames="true">
+  <template name="prefix" value="private String messagePrefix = &quot;$class_name$.&quot;;&#10;&#10;@Resource(name = &quot;clientMessages&quot;)&#10;private MessageSource messages;&#10;&#10;private String getMessages(String args) {&#10;  return getMessages(args, null);&#10;}&#10;&#10;private String getMessages(String arg, String[] args) {&#10;  return messages.getMessage(messagePrefix + arg, args, null);&#10;}" description="create messagePrefix" toReformat="false" toShortenFQNames="true">
     <variable name="class_name" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />

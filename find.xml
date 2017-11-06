@@ -2,12 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*sett.java</mask>
-      <mask>*setti.java</mask>
-      <mask>*settings.java</mask>
-      <mask>*tem.java</mask>
       <mask>*temp.java</mask>
       <mask>*templ.java</mask>
       <mask>*templa.java</mask>
@@ -18,10 +16,6 @@
       <mask>*mgr.</mask>
       <mask>*mgr.java</mask>
       <mask>*m.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.jft</mask>
-      <mask>*.j</mask>
       <mask>*</mask>
       <mask>*</mask>
       <mask>p</mask>
@@ -31,9 +25,17 @@
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jf</mask>
+      <mask>*.jft</mask>
+      <mask>sk</mask>
+      <mask>ski</mask>
+      <mask>skin</mask>
     </recentFileMasks>
   </component>
 </application>
