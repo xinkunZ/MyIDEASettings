@@ -1,17 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jft" />
     <recentFileMasks>
-      <mask>*temp.java</mask>
-      <mask>*templ.java</mask>
       <mask>*templa.java</mask>
       <mask>*template.java</mask>
       <mask>45</mask>
@@ -20,8 +15,6 @@
       <mask>*mgr.</mask>
       <mask>*mgr.java</mask>
       <mask>*m.java</mask>
-      <mask>*</mask>
-      <mask>*</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
@@ -32,14 +25,18 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
+      <mask>skin</mask>
+      <mask>ski</mask>
+      <mask>sk</mask>
+      <mask>s</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jf</mask>
       <mask>*.jft</mask>
-      <mask>sk</mask>
-      <mask>ski</mask>
-      <mask>skin</mask>
     </recentFileMasks>
   </component>
 </application>
