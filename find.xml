@@ -3,12 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*templa.java</mask>
       <mask>*template.java</mask>
       <mask>45</mask>
       <mask>4</mask>
@@ -21,7 +18,6 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -33,11 +29,13 @@
       <mask>*。</mask>
       <mask>*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jf</mask>
       <mask>*.jft</mask>
+      <mask>*.jf</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.x'm'l</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
