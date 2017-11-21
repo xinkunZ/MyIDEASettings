@@ -4,36 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>skin</mask>
-      <mask>ski</mask>
-      <mask>sk</mask>
-      <mask>s</mask>
-      <mask>*。</mask>
-      <mask>*</mask>
-      <mask>*</mask>
-      <mask>*.jft</mask>
-      <mask>*.jf</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.xml</mask>
-      <mask>*re.xml</mask>
-      <mask>*req.xml</mask>
-      <mask>*requ.xml</mask>
-      <mask>*reques.xml</mask>
-      <mask>*request.xml</mask>
-      <mask>*request.</mask>
-      <mask>*request.java</mask>
       <mask>*dao.java</mask>
       <mask>dao.java</mask>
       <mask>dao*.java</mask>
       <mask>Dao.*.java</mask>
       <mask>Dao*.java</mask>
+      <mask>*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>&gt;8</mask>
+      <mask>&gt;</mask>
+      <mask>.</mask>
+      <mask>.*</mask>
+      <mask>.*/</mask>
+      <mask>./</mask>
+      <mask>/</mask>
+      <mask>/w</mask>
+      <mask>/wd</mask>
+      <mask>/wdbb</mask>
+      <mask>/wdbbw*/</mask>
+      <mask>/wdbbw/</mask>
+      <mask>/wdbbw</mask>
+      <mask>/wdbbw\</mask>
+      <mask>wdbbw\</mask>
+      <mask>wdbbw</mask>
+      <mask>wdbbw.</mask>
+      <mask>wdbbw.*</mask>
+      <mask>wdbbw.*.</mask>
+      <mask>wdbbw.*.jav</mask>
+      <mask>wdbbw.*.java</mask>
     </recentFileMasks>
   </component>
 </application>
