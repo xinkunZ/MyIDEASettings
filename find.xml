@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>/wdbbw/</mask>
-      <mask>/wdbbw</mask>
-      <mask>/wdbbw\</mask>
-      <mask>wdbbw\</mask>
       <mask>wdbbw</mask>
       <mask>wdbbw.</mask>
       <mask>wdbbw.*</mask>
@@ -32,8 +29,12 @@
       <mask>roaming_query.json</mask>
       <mask>o</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
