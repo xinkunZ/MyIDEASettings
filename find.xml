@@ -3,23 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jft" />
     <recentFileMasks>
-      <mask>*dao.java</mask>
-      <mask>dao.java</mask>
-      <mask>dao*.java</mask>
-      <mask>Dao.*.java</mask>
-      <mask>Dao*.java</mask>
-      <mask>*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.</mask>
       <mask>&gt;8</mask>
       <mask>&gt;</mask>
-      <mask>.</mask>
-      <mask>.*</mask>
       <mask>.*/</mask>
       <mask>./</mask>
-      <mask>/</mask>
       <mask>/w</mask>
       <mask>/wd</mask>
       <mask>/wdbb</mask>
@@ -34,6 +24,17 @@
       <mask>wdbbw.*.</mask>
       <mask>wdbbw.*.jav</mask>
       <mask>wdbbw.*.java</mask>
+      <mask>*</mask>
+      <mask>*</mask>
+      <mask>/*</mask>
+      <mask>/</mask>
+      <mask>.</mask>
+      <mask>.*</mask>
+      <mask>.*.</mask>
+      <mask>.*.j</mask>
+      <mask>.*.jf</mask>
+      <mask>.*.jft</mask>
+      <mask>*.jft</mask>
     </recentFileMasks>
   </component>
 </application>
