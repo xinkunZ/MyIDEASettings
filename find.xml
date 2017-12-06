@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'idea-jpos'" />
+    <option name="defaultScopeName" value="Project 'idea-jpos'" />
+    <option name="SEARCH_SCOPE" value="Project 'idea-jpos'" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>&gt;8</mask>
