@@ -2,18 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="direct*.java" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>&gt;8</mask>
-      <mask>&gt;</mask>
-      <mask>.*/</mask>
-      <mask>./</mask>
-      <mask>/w</mask>
-      <mask>/wd</mask>
-      <mask>/wdbb</mask>
       <mask>/wdbbw*/</mask>
       <mask>/wdbbw/</mask>
       <mask>/wdbbw</mask>
@@ -36,6 +27,14 @@
       <mask>.*.jf</mask>
       <mask>.*.jft</mask>
       <mask>*.jft</mask>
+      <mask>d</mask>
+      <mask>dire</mask>
+      <mask>direc</mask>
+      <mask>direct</mask>
+      <mask>direct.</mask>
+      <mask>direct.ja</mask>
+      <mask>direct.java</mask>
+      <mask>direct*.java</mask>
     </recentFileMasks>
   </component>
 </application>
