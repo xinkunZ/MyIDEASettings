@@ -13,6 +13,5 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.initialDelay" value="826" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
