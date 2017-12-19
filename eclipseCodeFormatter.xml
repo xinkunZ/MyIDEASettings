@@ -13,7 +13,7 @@
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
         <Settings>
-          <option name="disabledFileTypes" value="xml;properties" />
+          <option name="disabledFileTypes" value="properties" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
