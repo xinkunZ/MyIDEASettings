@@ -9,7 +9,7 @@
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
-        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="PASSED" />
         <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
@@ -28,6 +28,20 @@
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="30867" />
+            </StatisticData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
