@@ -9,7 +9,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="My IDE Default">
+  <component name="DaemonCodeAnalyzerSettings" profile="Rumba">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
 </application>
