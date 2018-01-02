@@ -6,23 +6,4 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/1.7.0" />
     </gwt-sdk-list>
   </component>
-  <component name="libraryTable">
-    <library name="jquery-1.7.1" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <option name="frameworkVersion" value="1.7.1" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.7.1.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.7.1.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-  </component>
 </application>
