@@ -21,7 +21,9 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="Console.Execute.Multiline" />
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -119,6 +121,9 @@
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt x" />
