@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>wdbbw\</mask>
-      <mask>wdbbw</mask>
-      <mask>wdbbw.</mask>
-      <mask>wdbbw.*</mask>
-      <mask>wdbbw.*.</mask>
-      <mask>wdbbw.*.jav</mask>
-      <mask>wdbbw.*.java</mask>
-      <mask>*</mask>
-      <mask>*</mask>
-      <mask>/*</mask>
-      <mask>/</mask>
-      <mask>.</mask>
-      <mask>.*</mask>
       <mask>.*.</mask>
       <mask>.*.j</mask>
       <mask>.*.jf</mask>
@@ -32,8 +20,21 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.jft</mask>
+      <mask>*.jf</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom.xm,l</mask>
+      <mask>pom.xm,</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.x</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
