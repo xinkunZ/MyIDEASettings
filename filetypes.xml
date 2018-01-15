@@ -7,11 +7,12 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="jft" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="tomcat" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="txt'" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ps1xml" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
