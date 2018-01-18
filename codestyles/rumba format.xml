@@ -36,6 +36,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
