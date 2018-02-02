@@ -25,6 +25,16 @@
           <option name="selectedJavaProfile" value="rumba format new" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
+        <Settings>
+          <option name="eclipseVersion" value="ECLIPSE_44" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1517553688223" />
+          <option name="importOrdering" value="ECLIPSE_44" />
+          <option name="name" value="rumba-jpos" />
+          <option name="pathToConfigFileJava" value="C:/WorkSpace/intellj/idea-jpos/jpos/format.xml" />
+          <option name="selectedJavaProfile" value="rumba format" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
+        </Settings>
       </list>
     </option>
   </component>
