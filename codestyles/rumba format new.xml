@@ -31,6 +31,10 @@
     </option>
     <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_FROM" value="false" />
+    <option name="WRAP_INSIDE_SELECT" value="0" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
