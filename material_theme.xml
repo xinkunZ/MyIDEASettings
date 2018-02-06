@@ -7,7 +7,8 @@
     <option name="accentColor" value="84ffff" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="35" />
-    <option name="accentScrollbars" value="false" />
+    <option name="darkTitleBar" value="true" />
+    <option name="tabOpacity" value="69" />
     <option name="accentTitleBarColor" value="80cbc4" />
   </component>
 </application>
