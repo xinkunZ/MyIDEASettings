@@ -1,11 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.7.0.4" />
-    <option name="highlightColor" value="84ffff" />
+    <option name="version" value="1.8.0.2b3" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="ff2d21" />
     <option name="highlightThickness" value="1" />
     <option name="accentColor" value="84ffff" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="35" />
     <option name="accentScrollbars" value="false" />
+    <option name="accentTitleBarColor" value="80cbc4" />
   </component>
 </application>
