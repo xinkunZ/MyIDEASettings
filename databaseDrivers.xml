@@ -20,30 +20,11 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded">
-      <artifact name="Apache Derby" version="10.11.1.1" />
+      <artifact name="Apache Derby" use="true" version="10.13.1.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derby.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derby.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derbyclient.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derbyLocale_zh_CN.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derbynet.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derbyrun.jar</url>
-      </library>
-      <library>
-        <url>file://C:/WorkSpace/intellj/idea-yf/lib/lib/derbytools.jar</url>
-      </library>
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
