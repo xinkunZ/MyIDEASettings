@@ -1,10 +1,10 @@
-<scheme name="Material Theme - zxk" version="142" parent_scheme="Default">
+<scheme name="Material Theme - zxk " version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2017-03-28T11:29:32</property>
+    <property name="created">2018-02-07T14:56:49</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-01-23T09:51:14</property>
-    <property name="originalScheme">Material Theme - Default copy</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-02-07T14:57:03</property>
+    <property name="originalScheme">Material Theme  -zxk</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
