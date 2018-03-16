@@ -97,7 +97,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
   <action id="IntroduceConstant" />
-  <action id="JumpToLastChange" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="OpenCustomerHomeAction">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="f10" />
@@ -128,6 +130,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="RunToCursor" />
   <action id="ScrollTreeToCenter" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
