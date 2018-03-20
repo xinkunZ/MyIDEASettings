@@ -14,8 +14,8 @@
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
         <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
-        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.CommentLine" value="PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
@@ -77,16 +77,16 @@
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1516170414773" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="5372326781" />
             </StatisticData>
           </value>
         </entry>
         <entry key="EditorBasics.DeleteLine">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1516170417668" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="5372332674" />
             </StatisticData>
           </value>
         </entry>
