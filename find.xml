@@ -12,9 +12,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>skin</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jft</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
