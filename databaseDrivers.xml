@@ -20,7 +20,7 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded">
-      <artifact name="Apache Derby" use="true" version="10.13.1.1" />
+      <artifact name="Apache Derby" use="true" version="10.14.1.0" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
@@ -36,6 +36,10 @@
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="derby.remote">
