@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="global" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,9 +11,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>skin</mask>
-    <mask>*.java</mask>
     <mask>*.jft</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
