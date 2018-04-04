@@ -23,11 +23,14 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/xinkunZ/intellij-community.git" />
+          <option name="url" value="http://github.app.hd123.cn:10080/HDPOS4.6/panther-web-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\WorkSpace" />
+    <option name="cloneParentDir" value="C:\WorkSpace\intellj" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
