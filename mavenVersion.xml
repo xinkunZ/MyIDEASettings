@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx1024m" embedderJdk="1.7" mavenHome="C:\JetBrains\IntelliJ IDEA 2018.1\plugins\maven\lib\maven3" />
+  <component name="MavenVersion" vmOptions="-Xmx1024m" embedderJdk="1.7" mavenHome="C:/java/apache-maven-3.0.4" />
 </application>
