@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -16,5 +15,6 @@
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*hbm.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
