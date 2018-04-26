@@ -17,6 +17,7 @@
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <JavaCodeStyleSettings>
     <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
       <value />
@@ -33,8 +34,11 @@
     <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings>
+    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="NEW_LINE_BEFORE_FROM" value="false" />
     <option name="WRAP_INSIDE_SELECT" value="0" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
+    <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />

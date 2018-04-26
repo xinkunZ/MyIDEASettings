@@ -56,7 +56,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.2.1" />
+      <artifact name="PostgreSQL" use="true" version="42.2.2" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
@@ -82,9 +82,11 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.35" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.45" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
