@@ -4,10 +4,10 @@
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="ff2d21" />
     <option name="highlightThickness" value="1" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="ff4081" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="30" />
-    <option name="themedScrollbars" value="false" />
+    <option name="accentScrollbars" value="false" />
     <option name="darkTitleBar" value="true" />
     <option name="tabOpacity" value="20" />
     <option name="upperCaseButtons" value="false" />
