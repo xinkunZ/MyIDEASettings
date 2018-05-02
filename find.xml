@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '...\panther-git\panther-transmission-core\src\main\java\com\hd123\h4\panther\commons [panther-transmission-core]'" />
+    <option name="defaultScopeName" value="Directory '...\panther-git\panther-transmission-core\src\main\java\com\hd123\h4\panther\commons [panther-transmission-core]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '...\panther-git\panther-transmission-core\src\main\java\com\hd123\h4\panther\commons [panther-transmission-core]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
