@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="rp" type="Native" />
       <mapping pattern="X" type="PLAIN_TEXT" />
+      <mapping pattern="customerizeToolbar" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
