@@ -15,6 +15,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="tomcat" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="success" type="PLAIN_TEXT" />
       <mapping ext="txt'" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
