@@ -1,16 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-12-07T17:53:09</property>
+    <property name="created">2018-05-30T15:48:25</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-05-30T15:31:48</property>
+    <property name="ideVersion">2018.2.0.0</property>
+    <property name="modified">2018-05-30T19:38:10</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="80cbc4" />
-    <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
