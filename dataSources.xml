@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="xftestnew" uuid="24edaa34-6942-46da-b6a2-6f222daba5f0">
+    <data-source source="LOCAL" name="xftestnew" uuid="b49045c2-3822-4e0b-ba25-d514dd28f834">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
@@ -10,7 +10,7 @@
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="db1" uuid="0989712f-cb20-4789-9efc-ea5286344890">
+    <data-source source="LOCAL" name="db1" uuid="1fd83872-d85b-448e-b2ad-2df1c75e0c4a">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>

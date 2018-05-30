@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.3.3.1" />
+    <option name="version" value="2.2.3.1" />
     <option name="selectedTheme" value="CUSTOM" />
-    <option name="highlightColor" value="ff4081" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightColor" value="ff2d21" />
     <option name="highlightThickness" value="1" />
     <option name="accentColor" value="ff4081" />
     <option name="statusBarTheme" value="false" />
