@@ -13,12 +13,12 @@
         <entry key="Completions.CompletionwithTab" value="PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="PASSED" />
         <entry key="Completions.StatementCompletion" value="PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
-        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
@@ -69,8 +69,8 @@
         <entry key="EditorBasics.Collapse">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1516170419656" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="11654316618" />
             </StatisticData>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorBasics.MultipleSelections">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1516170420215" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="11654436306" />
             </StatisticData>
           </value>
         </entry>
