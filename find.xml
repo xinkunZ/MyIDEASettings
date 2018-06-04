@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\jpos\src\com\hd123\jpos\client\nui\dailystoreorder\DailySoEditTable.java [jpos]'" />
-    <option name="defaultScopeName" value="File '...\jpos\src\com\hd123\jpos\client\nui\dailystoreorder\DailySoEditTable.java [jpos]'" />
-    <option name="SEARCH_SCOPE" value="File '...\jpos\src\com\hd123\jpos\client\nui\dailystoreorder\DailySoEditTable.java [jpos]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
