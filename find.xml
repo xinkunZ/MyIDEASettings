@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jft" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -10,11 +11,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>skin</mask>
-    <mask>*.jft</mask>
     <mask>*.java</mask>
     <mask>*hbm.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.jft</mask>
   </component>
 </application>
