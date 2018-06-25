@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Message" />
       <item value="algo" />
       <item value="get Current Store No" />
       <item value="request" />
