@@ -1,4 +1,10 @@
 <keymap version="1" name="Base on Eclipse" parent="Eclipse">
+  <action id="$ChooseTranslatorAction" />
+  <action id="$EditorTranslateAction">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BuildArtifact">
@@ -40,6 +46,9 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="Diff.SelectedChange" />
+  <action id="Editor EditorTranslateAction">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="enter" />
