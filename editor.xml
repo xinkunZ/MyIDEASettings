@@ -2,7 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
     <option name="FONT_FAMILY" value="Monaco" />
-    <option name="SECONDARY_FONT_FAMILY" value="Segoe UI" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
