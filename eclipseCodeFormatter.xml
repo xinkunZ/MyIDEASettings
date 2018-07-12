@@ -21,7 +21,7 @@
           <option name="id" value="1517570596596" />
           <option name="importOrdering" value="ECLIPSE_44" />
           <option name="name" value="idea-jpos" />
-          <option name="pathToConfigFileJava" value="C:/WorkSpace/intellj/idea-jpos/jpos/format.xml" />
+          <option name="pathToConfigFileJava" value="C:/java/jpos-format.xml" />
           <option name="selectedJavaProfile" value="rumba format" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
