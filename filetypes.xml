@@ -11,6 +11,7 @@
       <mapping ext="jft" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="vpp" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ps1xml" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
