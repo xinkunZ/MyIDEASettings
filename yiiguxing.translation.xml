@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hodgepodge" />
       <item value="get Pom Limit Fav Amount" />
       <item value="Pda Voucher Test" />
       <item value="CAUTION: THIS IS FOR ADVANCED FEATURES If you want your transformer to handle writing of the property name and the value have it implement this interface. This will flag FlexJSON to not generate property names for this Transform." />
