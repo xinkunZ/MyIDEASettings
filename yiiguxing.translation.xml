@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This dependency is exported to consumers, that is to say found on their compile classpath." />
+      <item value="This dependency is used internally, and not exposed to consumers on their own compile classpath." />
+      <item value="internally" />
       <item value="hodgepodge" />
       <item value="get Pom Limit Fav Amount" />
       <item value="Pda Voucher Test" />
