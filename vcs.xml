@@ -50,6 +50,10 @@
           <option name="url" value="http://github.app.hd123.cn:10080/service-center/sas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/service-center/ras.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\WorkSpace\service-center" />
