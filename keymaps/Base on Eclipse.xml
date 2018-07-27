@@ -109,6 +109,10 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt windows" />
+  </action>
   <action id="OpenCustomerHomeAction">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="f10" />
