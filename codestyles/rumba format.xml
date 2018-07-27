@@ -32,17 +32,20 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <SqlCodeStyleSettings version="0">
-    <option name="myVersion" value="0" />
+  <SqlCodeStyleSettings version="1">
     <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SUBQUERY_L_PAR_NL_OUTSIDE" value="true" />
+    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
+    <option name="SET_EL_WRAP" value="2" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="2" />
     <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
@@ -50,8 +53,11 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="NEW_LINE_BEFORE_FROM" value="false" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="1" />
     <option name="WRAP_INSIDE_SELECT" value="0" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="5" />
     <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="5" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
   </SqlCodeStyleSettings>
   <XML>
