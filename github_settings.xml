@@ -1,7 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="zxk844977406@outlook.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="PRIVATE_GIST" value="false" />
+  <component name="GithubAccounts">
+    <account id="3e35a54f-7366-4c92-bf19-cf94035e6676" name="844977406@qq.com">
+      <server host="github.com" />
+    </account>
   </component>
 </application>

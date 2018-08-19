@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Use the overload that takes in a contact instead" />
+      <item value="A convenience annotation that is itself annotated with @Controller and @ResponseBody. Types that carry this annotation are treated as controllers where @RequestMapping methods assume @ResponseBody semantics by default. NOTE: @RestController is processed if an appropriate HandlerMapping-HandlerAdapter pair is configured such as the RequestMappingHandlerMapping-RequestMappingHandlerAdapter pair which are the default in the MVC Java config and the MVC namespace." />
+      <item value="This dependency is exported to consumers, that is to say found on their compile classpath." />
+      <item value="This dependency is used internally, and not exposed to consumers on their own compile classpath." />
+      <item value="internally" />
+      <item value="hodgepodge" />
+      <item value="get Pom Limit Fav Amount" />
+      <item value="Pda Voucher Test" />
+      <item value="CAUTION: THIS IS FOR ADVANCED FEATURES If you want your transformer to handle writing of the property name and the value have it implement this interface. This will flag FlexJSON to not generate property names for this Transform." />
+      <item value="is Inline" />
+      <item value="get Message" />
+      <item value="algo" />
+      <item value="get Current Store No" />
+      <item value="request" />
+      <item value="Connection" />
+      <item value="current Store No" />
+    </histories>
+  </component>
+</application>

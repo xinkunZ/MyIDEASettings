@@ -4,17 +4,6 @@
       <list>
         <Settings>
           <option name="eclipseVersion" value="ECLIPSE_44" />
-          <option name="formatter" value="ECLIPSE" />
-          <option name="id" value="1473130769780" />
-          <option name="importOrdering" value="ECLIPSE_44" />
-          <option name="name" value="default" />
-          <option name="pathToConfigFileJava" value="C:/WorkSpace/intellj/idea-cs/jpos/format.xml" />
-          <option name="selectedJavaProfile" value="rumba format" />
-          <option name="useOldEclipseJavaFormatter" value="true" />
-        </Settings>
-        <Settings>
-          <option name="disabledFileTypes" value="xml;properties" />
-          <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1473130781068" />
@@ -22,8 +11,26 @@
           <option name="importOrderConfigFilePath" value="C:/WorkSpace/eclipse/jpos-eclipse-template/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
           <option name="importOrdering" value="ECLIPSE_44" />
           <option name="name" value="rumba" />
-          <option name="pathToConfigFileJava" value="C:/workspace/idea-jpos/jpos/format.xml" />
+          <option name="pathToConfigFileJava" value="C:/java/rumba-format.xml" />
           <option name="selectedJavaProfile" value="rumba format" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
+        </Settings>
+        <Settings>
+          <option name="eclipseVersion" value="ECLIPSE_44" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1517570596596" />
+          <option name="importOrdering" value="ECLIPSE_44" />
+          <option name="name" value="idea-jpos" />
+          <option name="pathToConfigFileJava" value="C:/java/jpos-format.xml" />
+          <option name="selectedJavaProfile" value="rumba format" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
+        </Settings>
+        <Settings>
+          <option name="eclipseVersion" value="ECLIPSE_44" />
+          <option name="id" value="1473130769780" />
+          <option name="importOrdering" value="ECLIPSE_44" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="C:/WorkSpace/intellj/idea-cs/jpos/format.xml" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
       </list>

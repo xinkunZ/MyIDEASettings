@@ -3,7 +3,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.6909091" />
+          <option name="SPLITTER_PROPORTION" value="0.7540741" />
         </PlaceSettings>
       </entry>
     </option>
@@ -13,6 +13,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>

@@ -1,21 +1,11 @@
-<scheme name="Material Theme - zxk" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+<scheme name="Material Theme - zxk " version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2017-03-28T11:29:32</property>
+    <property name="created">2018-02-07T14:56:49</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-09-21T11:18:09</property>
-    <property name="originalScheme">Material Theme - Default copy</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-06-20T10:01:05</property>
+    <property name="originalScheme">Material Theme  -zxk</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
